@@ -1,0 +1,13 @@
+echo "__pycache__/
+instance/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+*.env
+.env
+.DS_Store
+*.sqlite3
+*.db" > .gitignore
